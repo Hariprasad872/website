@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hariprasad | Techincal Associate</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Guna Sekhar</h1>
+        <p> IT & Technical Support</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a freelance IT professional providing reliable technical support,
+            system security, and IT solutions for businesses and individuals.
+        </p>
+    </section>
+
+    <section>
+        <h2>Services</h2>
+        <ul>
+            <li>IT Support & Troubleshooting</li>
+            <li>System & Endpoint Security</li>
+            <li>Software Installation & Support</li>
+            <li>Remote Technical Assistance</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: yourname@email.com</p>
+        <p>Phone / WhatsApp: +91855046602</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Guna Sekhar</p>
+    </footer>
+
+</body>
+</html>
